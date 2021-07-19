@@ -1,7 +1,7 @@
     
 ### Hi there 👋
 
-<!--<p align="left"><img src="https://komarev.com/ghpvc/?username=LPicinin" alt="LPicinin" /></p>-->
+<p align="left"><img src="https://komarev.com/ghpvc/?username=LPicinin" alt="LPicinin" /></p>
 
 ## Ferramentas e Tecnologias
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
